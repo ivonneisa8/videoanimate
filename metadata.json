@@ -1,0 +1,5 @@
+{
+  "name": "Video Animator AI",
+  "description": "An AI tool that reimagines real-world videos. It analyzes video frames, identifies subjects, objects, and backgrounds, and redraws them in a user-selected animation style, generating a completely new video.",
+  "requestFramePermissions": []
+}
